@@ -14,7 +14,8 @@ For in-depth instructions, read "Default Description" section. In this section, 
    This command will push all updates to github just like (git add ., git commit, git push)<br>
    <br>
 ====================<br>
-Default Description:
+<b>end of Samer Description</b><br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

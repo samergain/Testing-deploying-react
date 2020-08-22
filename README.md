@@ -1,3 +1,19 @@
+Samer Description:
+For in-depth instructions, read "Default Description" section. In this section, I list the very basic steps to deploy react app to github.
+1- Create your app: npx create-react-app appname
+2- Create a repo and copy SSH or HTTPS link
+3- Open terminal, navigate to your app, then install GitHub pages using this command: npm install gh-pages
+4- Edit package.jason: 
+          - in root level add: "homepage":"https://username.github.com/reponame" (replace username and reponame)
+          - in scripts add: "predeploy": "npm run build", "deploy": "gh-pages -d build"
+5- in terminal run these two commands:
+          git remote add origin git@github.com:username/reponame.git
+          git push -u origin master
+6- Deploy: npm run deploy
+   This command will push all updates to github just like (git add ., git commit, git push)
+   
+====================
+Default Description:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,4 +1,4 @@
-Samer Description:
+Samer Description:<br>
 For in-depth instructions, read "Default Description" section. In this section, I list the very basic steps to deploy react app to github.
 1- Create your app: npx create-react-app appname
 2- Create a repo and copy SSH or HTTPS link

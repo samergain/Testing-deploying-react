@@ -11,7 +11,7 @@ For in-depth instructions, read "Default Description" section. In this section, 
           git remote add origin git@github.com:username/reponame.git<br>
           git push -u origin master<br>
 <b>6-</b> Deploy: npm run deploy<br>
-   This command will push all updates to github just like (git add ., git commit, git push)<br>
+   This command will push all updates to github.<br>
    <br>
 ====================<br>
 <b>end of Samer Description</b><br>
